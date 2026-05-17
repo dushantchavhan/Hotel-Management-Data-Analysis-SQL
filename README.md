@@ -1,5 +1,5 @@
 # 🏨 Hotel Management System (SQL Project)
-
+ 
 A Hotel Management System database project built using **SQL**.  
 This project helps manage hotel operations such as customers, rooms, bookings, payments, and staff details.
 
